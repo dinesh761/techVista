@@ -2,9 +2,7 @@ export const bio = {
   about: {
     text: [
       "Hi &#128075;",
-      "I'm Vinay Somawat. I’m currently working as a Software Engineer at Biofourmis India specialize in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
-      "I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
-      "I love to read, listen to music, and travel.",
+      "I'm Dinesh. I’m currently working as a AWS Developer specialize in AWS Cloud based Applications.",
     ],
   },
   contact: {
@@ -78,7 +76,7 @@ export const projects = {
       image: "images/my_portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      // preview: "https://programmingdiaries.herokuapp.com/",
+      // preview: "",
       techStack: ["HTML", "JavaScript", "CSS", "Bootstrap"],
     },
     {
@@ -86,7 +84,7 @@ export const projects = {
       image: "images/userRegister_Login.png",
       summary:
         "Developed a web based User Registration and Login page with facility of new user registration, Admin portal login, Password reset, Login with existing credentials.",
-      //preview: "https://clever-fermi-0d5d76.netlify.app",
+      //preview: "",
       techStack: ["AngularJS", "NodeJS", "Bootstrap", "Sequelize", "MySQL"],
     },
     {
@@ -94,80 +92,10 @@ export const projects = {
       image: "images/flames_cal.png",
       summary:
         "Find out what type of relationship (friendship, love, affection, marriage, enmity, sisterhood) you are going to have with your dream partner...",
-      //preview: "https://github.com/vinaysomawat/Travographer-Portal",
+      //preview: "",
       techStack: ["HTML", "CSS", "JavaScript"],
     },
-    // {
-    //   projectName: "Resume Builder",
-    //   image: "images/resume-builder.png",
-    //   summary:
-    //     "Browser based editor to build and download Resumes in a customizable templates.",
-    //   preview: "https://vinaysomawat.github.io/Resume-Builder",
-    //   techStack: ["HTML", "Bootstrap", "JavaScript"],
-    // },
   ],
-  // softwareProjects: [
-  //   {
-  //     projectName: "Pizza Ordering ChatBot",
-  //     image: "images/pizzaorderchatbot.png",
-  //     summary:
-  //       "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-  //     preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-  //     techStack: ["Dailogflow", "Firebase"],
-  //   },
-  //   {
-  //     projectName: "WhatsApp-Bot",
-  //     image: "images/whatsappbot.jpg",
-  //     summary:
-  //       "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-  //     preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-  //     techStack: ["Selenium", "Chrome Webdriver", "Python"],
-  //   },
-  //   {
-  //     projectName: "Bill Generator",
-  //     image: "images/billgenerator.png",
-  //     summary:
-  //       "GUI to transfer data to excel sheets and generate bills on the local shops.",
-  //     preview: "https://github.com/vinaysomawat/Bill-Generator",
-  //     techStack: ["Tkinter", "Openxlpy", "Python"],
-  //   },
-  // ],
-  // androidProjects: [
-  //   {
-  //     projectName: "NITW-CSE",
-  //     image: "images/nitwcse.jpg",
-  //     summary:
-  //       "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-  //     preview: "https://github.com/vinaysomawat/NITW-CSE",
-  //     techStack: ["JAVA", "XML", "Android"],
-  //   },
-  //   {
-  //     projectName: "CareerHigh-App",
-  //     image: "images/carrerhigh.png",
-  //     summary:
-  //       "The Application display the webpages of website careerhigh.in in android devices.",
-  //     preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-  //     techStack: ["JAVA", "XML", "Android"],
-  //   },
-  // ],
-  // freelanceProjects: [
-  //   {
-  //     projectName: "SnylloAir.com",
-  //     image: "images/snylloair.png",
-  //     summary:
-  //       "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-  //     preview: "https://www.snylloair.com/",
-  //     techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-  //   },
-  //   {
-  //     projectName: "Delivery+",
-  //     image: "images/AM-Logo-.png",
-  //     summary: "Android Application to display website in android devices.",
-  //     preview:
-  //       "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-  //     techStack: ["Android", "JAVA", "Play Store"],
-  //   },
-  // ],
 };
 
 export const experience = [
@@ -286,23 +214,6 @@ export const footer = [
       },
     ],
   },
-  // {
-  //   label: "Resources",
-  //   data: [
-  //     {
-  //       text: "Enable Dark/Light Mode",
-  //       func: "enableDarkMode()",
-  //     },
-  //     {
-  //       text: "Print this page",
-  //       func: "window.print()",
-  //     },
-  //     {
-  //       text: "Clone this page",
-  //       link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-  //     },
-  //   ],
-  // },
   {
     label: "Social Profiles",
     data: [
@@ -314,10 +225,6 @@ export const footer = [
         text: "Twitter",
         link: "https://twitter.com/DineshA29975236",
       },
-      // {
-      //   text: "Buy me a coffee",
-      //   link: "https://www.buymeacoffee.com/r194dME8y",
-      // },
     ],
   },
   {
@@ -330,5 +237,4 @@ const gitUserName = "Dinesh Aruchamy";
 
 export const URLs = {
   mediumProfile: "",
-  // "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@vinaysomawat",
 };

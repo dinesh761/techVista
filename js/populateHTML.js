@@ -24,18 +24,6 @@ const { mediumProfile } = URLs;
  * @returns {void}
  */
 
-// async function fetchBlogsFromMedium(url) {
-//   try {
-//     const response = await fetch(url);
-//     const { items } = await response.json();
-//     populateBlogs(items, "blogs");
-//   } catch (error) {
-//     throw new Error(
-//       `Error in fetching the blogs from Medium profile: ${error}`
-//     );
-//   }
-// }
-
 /**
  * Populates skills to the HTML page.
  *
@@ -380,13 +368,7 @@ function getElement(tagName, className) {
 
 populateSkills(skills, "skills");
 
-// fetchBlogsFromMedium(mediumProfile);
-
 populateProjects(webProjects, "web-projects");
-// populateProjects(softwareProjects, "software-projects");
-// populateProjects(androidProjects, "android-projects");
-// populateProjects(freelanceProjects, "freelance-projects");
-
 populateExp_Edu(experience, "experience");
 populateExp_Edu(education, "education");
 
