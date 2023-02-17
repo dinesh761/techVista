@@ -76,7 +76,7 @@ export const projects = {
       image: "images/my_portfolio.png",
       summary:
         "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      // preview: "",
+      preview: "https://dinesh761.github.io/techVista/",
       techStack: ["HTML", "JavaScript", "CSS", "Bootstrap"],
     },
     {
@@ -92,7 +92,7 @@ export const projects = {
       image: "images/flames_cal.png",
       summary:
         "Find out what type of relationship (friendship, love, affection, marriage, enmity, sisterhood) you are going to have with your dream partner...",
-      //preview: "",
+      preview: "https://dinesh761.github.io/flames-calculator/",
       techStack: ["HTML", "CSS", "JavaScript"],
     },
   ],
